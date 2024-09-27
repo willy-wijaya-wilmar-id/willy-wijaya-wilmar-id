@@ -24,7 +24,7 @@
 </h3> 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=willy-wijaya-id&show_icons=true&locale=en&layout=compact&theme=onedark" alt="willy-wijaya-id" />
-   <br><br><br><br>
+   <br><br><br><br><br>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=willy-wijaya-id&show_icons=true&locale=en&theme=onedark" alt="willy-wijaya-id" />
    <br>
    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=willy-wijaya-id&theme=onedark" alt="willy-wijaya-id" />
